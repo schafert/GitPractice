@@ -1,0 +1,1 @@
+This is a practice repo for Fall 2024 STAT 600
