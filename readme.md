@@ -5,3 +5,6 @@ Not intended for commercial use
 This is to demonstrate syncing local and GitHub.
 
 This sentence I wrote on my local machine.
+
+This sentence I wrote on github.com
+
